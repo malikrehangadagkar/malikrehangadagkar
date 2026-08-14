@@ -50,30 +50,7 @@ Achievement| Recognition
 
 ---
 
-🚀 Featured Projects
-
-🔐 AI-Powered PII Redaction — Chrome Extension
-
-A privacy-focused Chrome extension designed to detect and redact Personally Identifiable Information (PII) from images before they are shared online.
-
-What I built
-
-- 🔎 Developed an AI-powered OCR pipeline to identify sensitive information inside images.
-- 🛡️ Automatically detects and redacts sensitive information before sharing.
-- 👤 Added a user-confirmation step before applying the redaction.
-- 🔐 Designed the workflow around privacy and user control.
-
-Tech: "JavaScript" "OCR" "AI" "Chrome Extension API" "Image Processing"
-
----
-
-🏋️ Gym Community & Fitness Tracking Platform
-
-A fitness-focused full-stack platform combining calorie tracking, workout progress, and community features to help users maintain consistency and connect with gym partners.
-
-What I built
-
-- 🔥 Calorie tracking and personalized calorie recommendations.
+🚀  calorie recommendations.
 - 📈 Progress monitoring to help users track their fitness journey.
 - 📸 Transformation photo sharing for progress and community engagement.
 - 🔥 Workout streaks to encourage consistency.
@@ -83,20 +60,51 @@ What I built
 Tech: "Python" "Full-Stack Development" "Database" "Authentication" "Web Development"
 
 ---
+🚀 Featured Projects
 
-🩺 Diabetes Prediction System — Indian Youth
+🤖 Ford — Autonomous Developer Feedback & Resolution Platform
+AI-powered software engineering platform that transforms developer feedback into tested and verified code changes through an autonomous engineering workflow.
 
-A Machine Learning project focused on identifying patterns and predictive factors associated with diabetes risk using a health and lifestyle dataset.
+**Tech Stack:** Python • FastAPI • PostgreSQL • Redis • Celery • Chrome Extension • AI Agents
 
-My Contribution — Exploratory Data Analysis
+---
 
-- 📊 Performed EDA to understand relationships between health and lifestyle factors.
-- 🔍 Analyzed variables including HbA1c, blood glucose, BMI, family history, and smoking history.
-- 📈 Created visualizations using Pandas, Matplotlib, and Seaborn.
-- 🧹 Supported the team during data preprocessing and feature analysis.
-- 🤝 Collaborated on model development, training, and evaluation for Diabetic vs Non-Diabetic classification.
+🏋️ Gym Community & Fitness Tracking Platform
+Full-stack fitness platform designed to help users track calories, monitor progress, maintain workout streaks, share transformations, and discover gym buddies.
 
-Tech: "Python" "Pandas" "NumPy" "Matplotlib" "Seaborn" "Machine Learning"
+Key Features:
+- 🍎 Calorie tracking and recommendations
+- 📈 Progress monitoring
+- 🔥 Workout streaks
+- 📸 Transformation sharing
+- 🤝 Gym buddy discovery
+
+---
+
+🔐 AI-Powered PII Redaction Chrome Extension
+Privacy-focused Chrome extension that detects and redacts Personally Identifiable Information from images before sharing.
+
+Key Features:
+- 🔍 OCR-based PII detection
+- 🤖 AI-powered redaction
+- 🔒 Privacy-focused processing
+- ✅ User confirmation before redaction
+
+---
+
+🩺 Diabetes Prediction System for Indian Youth
+Machine-learning project focused on identifying patterns and predictive factors associated with diabetes risk among Indian youth.
+
+My Contribution:** Exploratory Data Analysis (EDA)
+
+Tech Stack:
+Python • Pandas • Matplotlib • Seaborn • Machine Learning
+
+Work Done:
+- 📊 Analyzed health and lifestyle data
+- 🔎 Identified correlations and important features
+- 📈 Created visualizations for BMI, HbA1c, blood glucose, family history, and smoking history
+- 🤝 Collaborated on preprocessing, model training, and evaluation
 
 ---
 
