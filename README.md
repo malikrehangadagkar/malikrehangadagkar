@@ -1,4 +1,4 @@
-👋 Hey, I'm Malik Rehan M Gadagakar 
+Hey, I'm Malik Rehan M Gadagakar 👋
 
 Computer Systems Engineering @ Presidency University Bengaluru
 Data Science | AI/ML | Python | Software Development | Problem Solving
@@ -40,6 +40,7 @@ I particularly enjoy working on projects where an idea has to become a working p
 🏆 Highlights
 
 Achievement| Recognition
+
 🥇 1st Place| TRAE Hackathon
 
 🥈 Runner-up| Build a Game — InnovateX 4.0, Presidency University
