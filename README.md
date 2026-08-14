@@ -5,7 +5,8 @@ Data Science | AI/ML | Python | Software Development | Problem Solving
 
 📧 malikrehangadagkar4@gmail.com
 💼 "LinkedIn" (https://www.linkedin.com/in/malik-rehan-gadagkar-computersciencedatascience)
-🐙 "GitHub" (https://github.com/malikrehangadagakar)
+🐙 "GitHub" 
+(https://github.com/malikrehangadagkar)
 
 ---
 
@@ -40,8 +41,10 @@ I particularly enjoy working on projects where an idea has to become a working p
 
 Achievement| Recognition
 🥇 1st Place| TRAE Hackathon
+
 🥈 Runner-up| Build a Game — InnovateX 4.0, Presidency University
 🚀 Hackathon Project| Built and presented software solutions under strict time constraints
+
 🎮 Game Development| Developed a Space Shooter using Python & Pygame
 
 ---
